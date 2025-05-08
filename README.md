@@ -6,7 +6,6 @@ Neste laboratório, vamos criar uma função AWS Lambda que interrompe uma inst�
 Embora este laboratório utilize recursos dentro da camada gratuita da AWS, **é fundamental acompanhar o uso**:
 
 - Monitore o uso no **AWS Billing Dashboard** e no **AWS Cost Explorer**
-- **Encerre o ambiente Elastic Beanstalk ao final da atividade**
 - **Evite publicar prints com dados sensíveis** (como IDs de conta ou URLs privadas)
 
 ## O AWS Lambda é um serviço de computação serverless da Amazon Web Services que permite executar código sem precisar provisionar ou gerenciar servidores.
